@@ -11,3 +11,5 @@ version.
 _Usage:_ update your files and notify the responsible person.
 That's it. :)
 
+'@' codes are defined in `translation_table.pl`.
+
