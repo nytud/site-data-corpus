@@ -8,7 +8,8 @@ and
 [English](http://www.nytud.hu/depts/corpus/mts.html)
 version.
 
-_Usage:_ update your files and notify the responsible person.
+_Usage:_ update your files (encoding should be latin-2!)
+and notify the responsible person.
 That's it. :)
 
 '@' codes are defined in `translation_table.pl`.
