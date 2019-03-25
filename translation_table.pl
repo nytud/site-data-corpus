@@ -119,6 +119,7 @@
 @6626	Juhász Zsuzsa	Zsuzsa Juhász
 @6627	Becsei Katalin	Katalin Becsei
 @6628	Ferenczi Zsanett	Zsanett Ferenczi
+@6629	Arató Vera	Vera Arató
 
 @6700	Kornai András	András Kornai
 @6701	Ács Judit	Judit Ács
