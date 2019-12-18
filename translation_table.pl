@@ -83,6 +83,7 @@
 @6575	japán	Japanese
 @6576	svéd	Swedish
 @6577	finn	Finnish
+@6578	olasz	Italian
 # nyelvtudás -- fokozatok -- talán stimmel is XXX :)
 @6580	alapfok	\&ndash; B1
 @6581	középfok	\&ndash; B2
